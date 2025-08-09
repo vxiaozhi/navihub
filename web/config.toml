@@ -1,14 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "https://navihub.net/"
 languageCode = "zh-CN"
-title = "WebStack网址导航 Hugo主题"
+title = "navihub.net 一个对导航进行导航的网站"
 theme = "navi"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
 copyright = ""
 [params]
-  author = "iplaycode"
-  description = "Webstack Hugo"
+  author = "vxiaozhi"
+  description = "navihub.net 一个对导航进行导航的网站"
 [params.search]
   enable = true
 [params.darkmode]

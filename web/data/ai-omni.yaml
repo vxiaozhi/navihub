@@ -1,0 +1,105 @@
+- taxonomy: "AI Agent"
+  icon: fas fa-flask fa-lg
+  list:
+    - term: AI Agent 教程
+      links:
+        - title: ai-agents-for-beginners
+          url: https://github.com/microsoft/ai-agents-for-beginners
+          description: "微软 AI Agent 初学者教程"
+        - title: awesome-ai-agents
+          url: https://github.com/e2b-dev/awesome-ai-agents
+          description: "awesome-ai-agents列举了 AI Agent 相关的各种开源项目"
+        - title: topics/ai-agents
+          url: https://github.com/topics/ai-agents
+          description: "github 上 AI Agent 相关的讨论主题"
+    - term: AI Agent 开发工具
+      links:
+        - title: Coze
+          url: https://github.com/coze-dev/coze-studio
+          description: "一站式 AI Agent 开发工具。提供各类最新大模型和工具、多种开发模式和框架，从开发到部署，为你提供最便捷的 AI Agent 开发环境"
+        - title: Dify
+          url: https://github.com/langgenius/dify
+          description: "Dify 是一个开源的 LLM 应用开发平台。其直观的界面结合了 AI 工作流、RAG 管道、Agent、模型管理、可观测性功能等，让您可以快速从原型到生产"
+- taxonomy: "LLM 框架"
+  links:
+    - title: Pocket Flow
+      url: https://github.com/The-Pocket/PocketFlow/blob/main/cookbook/pocketflow-batch/translations/README_CHINESE.md
+      description: "Pocket Flow 是一个100行代码的极简主义LLM框架"
+- taxonomy: "RAG"
+- taxonomy: "AIGC"
+- taxonomy: "MCP"
+  links:
+    - title: context7
+      url: https://github.com/upstash/context7
+      description: Context7 MCP Server
+    - title: MCP Servers
+      url: https://github.com/modelcontextprotocol/servers
+      description: Model Context Protocol servers
+- taxonomy: "Vibe Coding"
+  icon: fas fa-flask fa-lg
+  list:
+    - term: "Wiki介绍"
+      links:
+        - title: "Vibe coding"
+          url: https://zh.wikipedia.org/wiki/Vibe_coding
+          description: "Vibe coding"
+        - title: "Vibe编程指南"
+          url: https://github.com/Troyanovsky/vibe-coding-guide
+          description: "Vibe编程指南"
+        - title: "绝大多数 Agent 产品，离了 Claude 以后，什么都不是"
+          url: https://bigeagle.me/2025/07/kimi-k2/
+          description: "绝大多数 Agent 产品，离了 Claude 以后，什么都不是"
+        - title: Awesome Cursor Rules
+          url: https://github.com/PatrickJS/awesome-cursorrules
+          description: Awesome Cursor Rules
+        - title: Agent Rules
+          url: https://github.com/steipete/agent-rules
+          description: Agent Rules
+    - term: "Coding IDE/Plugin"
+      links:
+        - title: cursor
+          url: https://cursor.com/en
+          description: cursor
+        - title: "Github Copilot"
+          url: https://github.com/copilot/
+          description: "Github Copilot"
+        - title: "字节 Trae"
+          url: https://Trae.com/
+          description: trae
+        - title: "通义灵码"
+          url: https://lingma.aliyun.com/download
+          description: 通义灵码
+        - title: "CodeBuddy"
+          url: https://copilot.tencent.com/ide/
+          description: CodeBuddy
+        - title: "CodeBuddy海外版"
+          url: https://www.codebuddy.ai/
+          description: CodeBuddy海外版
+        - title: "Cline"
+          url: https://github.com/cline/cline
+          description: Cline
+        - title: RooCode
+          url: https://github.com/RooCodeInc/Roo-Code
+          description: RooCode
+- taxonomy: "Code2Wiki"
+  links:
+    - title: zread.ai
+      url: https://zread.ai/
+      description: Zread
+    - title: code2tutorial
+      url: https://code2tutorial.com/
+      description: 类似 zread.ai 的产品，但代码开源：https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge
+    - title: DeepWiki-Open
+      url: https://github.com/AsyncFuncAI/deepwiki-open
+      description: AI驱动的代码分析工具，可将GitHub/GitLab仓库一键转换为交互式Wiki文档
+    - title: RepoAgent
+      url: https://github.com/OpenBMB/RepoAgent
+      description: 由清华大学团队开发，基于LLM的代码库级文档生成框架，生成代码的解释文档
+    - title: Tutorial-Codebase-Knowledge
+      url: https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge
+      description: 从代码库生成初学者友好的教程文档，支持多语言输出
+
+
+        
+    
+    
