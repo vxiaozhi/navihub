@@ -9,6 +9,7 @@ copyright = ""
 [params]
   author = "vxiaozhi"
   description = "navihub.net 一个对导航进行导航的网站"
+  recent_posts_number = 10
 [params.search]
   enable = true
 [params.darkmode]
