@@ -1,0 +1,32 @@
+- taxonomy: "Serverless 开源框架"
+  links:
+    - title: OpenFaas
+      url: https://github.com/openfaas/faas
+      description: "OpenFaas"
+    - title: Knative Serving
+      url: https://github.com/knative/serving
+      description: "Knative Serving是一个基于Kubernetes的平台，使您能够部署、服务和扩展无服务器应用程序，而无需担心底层基础设施。它提供了现代无服务器工作负载所需的中间件原语，同时利用Kubernetes进行强大的容器编排。"
+    - title: Fission
+      url: https://github.com/fission/fission
+      description: Fission
+    - title: Kubeless
+      url:  https://github.com/kubeless/kubeless
+      description: Kubeless
+    - title: OpenWhisk
+      url: https://github.com/apache/incubator-openwhisk
+      description: "OpenWhisk"
+    - title: KEDA
+      url: https://github.com/kedacore/keda
+      description: "KEDA (Kubernetes-based Event-Driven Autoscaler) 是在 Kubernetes 中事件驱动的弹性伸缩器。不仅支持根据基础的 CPU 和内存指标进行伸缩，还支持根据各种消息队列中的长度、数据库中的数据统计、QPS、Cron 定时计划以及您可以想象的任何其他指标进行伸缩，甚至还可以将副本缩到 0"
+    
+- taxonomy: "Serverless 商业产品"
+  links:
+    - title: AWS Lambda
+      url: http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+      description: "AWS Lambda"
+    - title: Google Cloud Functions
+      url: https://cloud.google.com/functions/
+      description: Google Cloud Functions
+    - title: Aliyun Serverless Kubernetes 
+      url: https://help.aliyun.com/document_detail/71480.html
+      description: Aliyun Serverless Kubernetes 
