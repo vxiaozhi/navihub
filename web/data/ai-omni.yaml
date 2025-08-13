@@ -20,6 +20,11 @@
         - title: Dify
           url: https://github.com/langgenius/dify
           description: "Dify 是一个开源的 LLM 应用开发平台。其直观的界面结合了 AI 工作流、RAG 管道、Agent、模型管理、可观测性功能等，让您可以快速从原型到生产"
+    - term: AI Agent 框架
+      links:
+        - title: trpc-agent-go
+          url: https://github.com/trpc-group/trpc-agent-go
+          description: "基于 trpc-go 实现的 Agent 框架"
 - taxonomy: "LLM 框架"
   links:
     - title: Pocket Flow
